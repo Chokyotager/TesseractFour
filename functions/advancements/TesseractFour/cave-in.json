@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"Cave-In":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:stone"
+		},
+		"title":
+		{
+			"text": "Collapsing Caves",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Better use Wood or Logs to prevent caves collapsing",
+			"color": "gray"
+		},
+		"hidden": true
+	},
+	"parent": "tesseractfour:tesseractfour"
+}

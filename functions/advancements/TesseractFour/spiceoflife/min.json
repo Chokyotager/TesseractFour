@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"SOLMin":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:cooked_porkchop"
+		},
+		"title":
+		{
+			"text": "Balanced Diet",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "You should eat various types of food to prevent diminishing returns",
+			"color": "gray"
+		},
+		"hidden": true
+	},
+	"parent": "tesseractfour:tesseractfour"
+}

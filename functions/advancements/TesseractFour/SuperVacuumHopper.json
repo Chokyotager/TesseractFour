@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"SuperVacuumHopper":
+		{
+			"trigger": "impossible"
+		}
+	},
+
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:hopper"
+		},
+		"title":
+		{
+			"text": "Sucking from the 4th Dimension",
+			"color": "dark_purple"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Create a Super Vacuum Hopper",
+			"color": "gray"
+		},
+		"hidden": false,
+		"parent": "advancedvacuumhopper"
+	}
+}

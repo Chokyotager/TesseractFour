@@ -1,0 +1,31 @@
+{
+	"criteria":
+	{
+		"AngryPig":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:skull",
+			"data": 2
+		},
+		"title":
+		{
+			"text": "You're Cursed, They're Angry",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Zombie Pigmen will always be angry until you get some kind of parfume",
+			"color": "gray"
+		},
+		"hidden": true
+	},
+	"parent": "tesseractfour:nethercurses/cursed"
+}

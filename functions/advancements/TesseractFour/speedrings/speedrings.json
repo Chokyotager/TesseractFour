@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"Speed Rings":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:emerald"
+		},
+		"title":
+		{
+			"text": "Gotta Go Fast",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Craft a Speed Ring to Go Fast, or prevent Encumbering",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:encumberinginventories/encumberinginventories"
+}

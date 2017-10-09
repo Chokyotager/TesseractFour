@@ -1,0 +1,66 @@
+{
+	"criteria":
+	{
+		"squiddeatheffects":
+		   {
+		   		"trigger": "minecraft:effects_changed",
+			   	"conditions": 
+			   	{
+				   	"effects": 
+				   	{
+						"minecraft:blindness": 
+						{
+							"amplifier": 0,
+							"duration": 
+							{
+								"min": 50,
+								"max": 100
+							}
+						},
+						
+						"minecraft:slowness": 
+						{
+							"amplifier": 0,
+							"duration": 
+							{
+								"min": 20,
+								"max": 40
+							}
+						},
+						
+						"minecraft:weakness": 
+						{
+							"amplifier": 0,
+							"duration": 
+							{
+								"min": 40,
+								"max": 80
+							}
+						}
+				   }
+			   }
+		   }
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:dye",
+			"data": 0
+		},
+		"title":
+		{
+			"text": "Squidy Ink",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Get blinded by a Squid's Death",
+			"color": "gray"
+		},
+		"hidden": true
+	},
+	"parent": "tesseractfour:tesseractfour"
+}

@@ -1,0 +1,65 @@
+{
+	"criteria":
+	{
+		"shulkerdeatheffects":
+		   {
+		   		"trigger": "minecraft:effects_changed",
+			   	"conditions": 
+			   	{
+				   	"effects": 
+				   	{
+						"minecraft:nausea": 
+						{
+							"amplifier": 0,
+							"duration": 
+							{
+								"min": 150,
+								"max": 200
+							}
+						},
+						
+						"minecraft:glowing": 
+						{
+							"amplifier": 0,
+							"duration": 
+							{
+								"min": 100,
+								"max": 140
+							}
+						},
+						
+						"minecraft:levitation": 
+						{
+							"amplifier": 1,
+							"duration": 
+							{
+								"min": 100,
+								"max": 140
+							}
+						}
+				   }
+			   }
+		   }
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:purple_shulker_box"
+		},
+		"title":
+		{
+			"text": "Shulker Death",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Get Levitated by a Shulker's Death",
+			"color": "gray"
+		},
+		"hidden": true
+	},
+	"parent": "tesseractfour:squiddeatheffects"
+}

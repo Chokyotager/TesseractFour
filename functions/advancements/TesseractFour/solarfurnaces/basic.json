@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"BasicSF":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:daylight_detector"
+		},
+		"title":
+		{
+			"text": "Solar Power",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Create a Basic Solar Furnace",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:CrafterFour"
+}

@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"RedstonePulsator":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:redstone_block"
+		},
+		"title":
+		{
+			"text": "Tick, Tick, Tick",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Create a Redstone Pulsator",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:machinecasing/basic"
+}

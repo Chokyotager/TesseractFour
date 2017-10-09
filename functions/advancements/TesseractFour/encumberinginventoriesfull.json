@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"Encumber Full":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:obsidian"
+		},
+		"title":
+		{
+			"text": "Fully Encumbered",
+			"color": "dark_purple"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Fully Encumber yourself, you can no longer move!",
+			"color": "gray"
+		},
+		"hidden": true
+	},
+	"parent": "tesseractfour:encumberinginventories"
+}

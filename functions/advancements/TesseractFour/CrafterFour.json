@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"CrafterFour":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:crafting_table"
+		},
+		"title":
+		{
+			"text": "4th Dimension Crafting",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Create a Crafter Four to begin 4th Dimension Crafting",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:tesseractfour"
+}

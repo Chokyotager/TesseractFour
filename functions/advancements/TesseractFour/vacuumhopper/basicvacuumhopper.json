@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"BasicVacuumHopper":
+		{
+			"trigger": "impossible"
+		}
+	},
+
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:hopper"
+		},
+		"title":
+		{
+			"text": "Pull Those Items!",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Create a Basic Vacuum Hopper",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:tesseractfour"
+}

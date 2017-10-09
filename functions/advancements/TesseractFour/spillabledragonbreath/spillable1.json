@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"Spillable1":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:dragon_breath"
+		},
+		"title":
+		{
+			"text": "Actually Useful Dragon Breath",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Throw a bottle of Dragon Breath",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:TesseractFour"
+}

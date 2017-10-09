@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"UpgradedSF":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:daylight_detector"
+		},
+		"title":
+		{
+			"text": "Do You Even Sun Bro?",
+			"color": "dark_red"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Create an Upgraded Solar Furnace",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:SolarFurnaces/Basic"
+}

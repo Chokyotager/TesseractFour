@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"Speed Rings Max":
+		{
+			"trigger": "impossible"
+		}
+	},
+	
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:emerald"
+		},
+		"title":
+		{
+			"text": "Gotta Go Fast - Maximum Speed Edition",
+			"color": "dark_red"
+		},
+		"frame": "goal",
+		"description": 
+		{
+			"text": "Have the Maximum Number (6) of Speed Rings in your inventory",
+			"color": "gray"
+		},
+		"hidden": true
+	},
+	"parent": "tesseractfour:speedrings/speedrings"
+}

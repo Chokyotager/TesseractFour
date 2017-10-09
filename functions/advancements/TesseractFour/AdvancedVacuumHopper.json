@@ -1,0 +1,30 @@
+{
+	"criteria":
+	{
+		"AdvancedVacuumHopper":
+		{
+			"trigger": "impossible"
+		}
+	},
+
+	"display":
+	{
+		"icon":
+		{
+			"item": "minecraft:hopper"
+		},
+		"title":
+		{
+			"text": "Even More Sucking!",
+			"color": "dark_purple"
+		},
+		"frame": "task",
+		"description": 
+		{
+			"text": "Create an Advanced Vacuum Hopper",
+			"color": "gray"
+		},
+		"hidden": false
+	},
+	"parent": "tesseractfour:basicvacuumhopper"
+}
