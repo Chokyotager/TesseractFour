@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Withering Mortality","color":"red"},
+        "description": "Spawn in a tier III Wither",
+        "icon": {
+            "item": "minecraft:nether_star",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:wither_2"
+}

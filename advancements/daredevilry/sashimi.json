@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Sashimi","color":"red"},
+        "description": "Cod, salmon and clownfish don't give you food poisoning!",
+        "icon": {
+            "item": "minecraft:fish",
+            "data": 0
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:first_meal"
+}

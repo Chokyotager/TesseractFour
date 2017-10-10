@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"It's not worth eating any more","color":"red"},
+        "description": "Reach the maximum diminishing return of a type of food",
+        "icon": {
+            "item": "minecraft:bone",
+            "data": 0
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:malnutrition"
+}

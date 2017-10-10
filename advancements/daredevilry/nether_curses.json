@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Something is in the air!","color":"red"},
+        "description": "You will need a charm to get your normal abilities in the nether",
+        "icon": {
+            "item": "minecraft:netherrack",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:root"
+}

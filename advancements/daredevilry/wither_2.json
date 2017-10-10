@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"What? More minions?!","color":"red"},
+        "description": "Spawn in a tier II Wither",
+        "icon": {
+            "item": "minecraft:coal",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:wither_1"
+}

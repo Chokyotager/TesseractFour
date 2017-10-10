@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"The Beginning","color":"red"},
+        "description": "Spawn in a tier I Wither",
+        "icon": {
+            "item": "minecraft:skull",
+            "data": 1
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:root"
+}

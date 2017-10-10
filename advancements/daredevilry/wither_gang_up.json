@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Ganging Up","color":"red"},
+        "description": "Fight a Wither with multiple people",
+        "icon": {
+            "item": "minecraft:skull",
+            "data": 3
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:wither_1"
+}

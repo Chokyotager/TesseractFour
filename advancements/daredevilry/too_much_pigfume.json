@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Playing it Safe","color":"red"},
+        "description": "Have a stack of Pigfume in your inventory while going into the Nether",
+        "icon": {
+            "item": "minecraft:double_plant",
+            "data": 4
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:pigfume"
+}

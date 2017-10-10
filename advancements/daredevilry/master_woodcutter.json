@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Master Woodcutter","color":"red"},
+        "description": "Chop down a thousand blocks of logs",
+        "icon": {
+            "item": "minecraft:diamond_axe",
+            "data": 0
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:falling_trees"
+}

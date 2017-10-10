@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Undeterred","color":"red"},
+        "description": "Have a cave collapse on you five times",
+        "icon": {
+            "item": "minecraft:stone",
+            "data": 3
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:cave_in"
+}

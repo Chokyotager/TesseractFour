@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Plain pig-stupid","color":"red"},
+        "description": "Attack a pigman even with Pigfume applied",
+        "icon": {
+            "item": "minecraft:porkchop",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:pigfume"
+}

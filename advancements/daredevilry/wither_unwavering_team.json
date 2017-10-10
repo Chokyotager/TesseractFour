@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Unwavering Teamwork","color":"red"},
+        "description": "Spawn in a tier VI Wither with multiple people around",
+        "icon": {
+            "item": "minecraft:skull",
+            "data": 3
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:wither_5"
+}

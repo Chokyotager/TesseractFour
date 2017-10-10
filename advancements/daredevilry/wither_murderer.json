@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Wither-murderer","color":"red"},
+        "description": "Kill five Withers",
+        "icon": {
+            "item": "minecraft:soul_sand",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:wither_2"
+}

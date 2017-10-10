@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Pig-perfume","color":"red"},
+        "description": "Now you're concealed",
+        "icon": {
+            "item": "minecraft:red_flower",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:no_pigfume"
+}

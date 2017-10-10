@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Beautiful, Huge, Lovely, yet Deadly","color":"red"},
+        "description": "Chop down a spruce tree",
+        "icon": {
+            "item": "minecraft:sapling",
+            "data": 1
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:falling_trees"
+}

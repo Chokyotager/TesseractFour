@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Withering Booms","color":"red"},
+        "description": "Spawn in a tier IV Wither and experience the bigger spawn explosion!",
+        "icon": {
+            "item": "minecraft:spawn_egg",
+            "data": 0
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:wither_3"
+}

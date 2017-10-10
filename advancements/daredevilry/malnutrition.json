@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Malnutrition","color":"red"},
+        "description": "You should eat various types of food to prevent diminishing returns",
+        "icon": {
+            "item": "minecraft:dye",
+            "data": 15
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:first_meal"
+}

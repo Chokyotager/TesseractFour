@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Shulker Warp","color":"red"},
+        "description": "You should remove those filled Shulker boxes from your ender chest… seriously.",
+        "icon": {
+            "item": "minecraft:shulker_shell",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:warp_cursed"
+}

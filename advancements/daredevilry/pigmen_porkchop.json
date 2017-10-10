@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Vengeance","color":"red"},
+        "description": "You should leave your pork chops at home",
+        "icon": {
+            "item": "minecraft:cooked_porkchop",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:no_pigfume"
+}

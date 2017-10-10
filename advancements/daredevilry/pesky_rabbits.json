@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Pesky Rabbits","color":"red"},
+        "description": "Don't let rabbits get on your crops or they'll eat them up!",
+        "icon": {
+            "item": "minecraft:rabbit_hide",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:root"
+}
