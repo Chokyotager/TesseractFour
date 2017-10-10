@@ -10,7 +10,7 @@
         "show_toast": true,
         "announce_to_chat": false,
         "hidden": false,
-        "background": "minecraft:textures/blocks/concrete_black.png"
+        "background": "minecraft:textures/blocks/mushroom_block_skin_brown.png"
     },
     "criteria": {"one": {"trigger": "tick"}}
 }
