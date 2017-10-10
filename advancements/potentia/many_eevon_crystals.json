@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"I'm rich and you know it","color":"dark_aqua"},
+        "title":{"text":"I'm rich and YOU know it","color":"dark_aqua"},
         "description": "Carry a stack of charged Eevon Crystals",
         "icon": {
             "item": "minecraft:diamond_block",
