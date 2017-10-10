@@ -2,9 +2,6 @@
 # All rights reserved
 # Potentia by ChocoParrot & Kroppeb
 
-# Empty slot
-execute @e[type=armor_stand,tag=T4_C4] ~ ~ ~ function TesseractFour:Package/Global_functions/UI/Dropper/Checkslot
-
 # Wrench
 execute @e[type=armor_stand,tag=T4_C4,score_T4_aec_min=4,score_T4_aec=4] ~ ~ ~ testforblock ~ ~ ~ dropper facing=up {Items:[{Slot:1b,id:"minecraft:iron_ingot",Count:1b,Damage:0s},{Slot:4b,id:"minecraft:iron_ingot",Count:1b,Damage:0s},{Slot:5b,id:"minecraft:iron_ingot",Count:1b,Damage:0s},{Slot:6b,id:"minecraft:stick",Count:1b,Damage:0s}]}
 execute @e[type=armor_stand,tag=T4_C4,score_T4_C4_recipes_min=1,score_T4_aec_min=4,score_T4_aec=4] ~ ~ ~ blockdata ~ ~ ~ {Items:[{Slot:4b,id:"minecraft:shears",Count:1b,Damage:0s,tag:{T4_P_wr:1b,display:{Name:"§fWrench"}}}]}
