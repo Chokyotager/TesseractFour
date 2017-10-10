@@ -24,7 +24,6 @@ function Infusers:Activate
 function Eggcipies:Activate
 function Necromancy:Activate
 function VacuumHoppers:Activate
-function RunicMagic:Activate
 function RailsFour:Activate
 function Famines:Activate
 function KookyRabbits:Activate
