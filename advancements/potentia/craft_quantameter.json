@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Quantameter","color":"dark_aqua"},
+        "description": "Craft a quantameter",
+        "icon": {
+            "item": "minecraft:compass",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:root"
+}

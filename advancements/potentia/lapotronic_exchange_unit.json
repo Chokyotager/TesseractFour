@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Lapotronic Madness","color":"dark_aqua"},
+        "description": "Create a Lapotronic Tesseract",
+        "icon": {
+            "item": "minecraft:concrete",
+            "data": 10
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:solid_storage"
+}

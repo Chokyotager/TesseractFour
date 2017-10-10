@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"I'm rich and you know it","color":"dark_aqua"},
+        "description": "Carry a stack of charged Eevon Crystals",
+        "icon": {
+            "item": "minecraft:diamond_block",
+            "data": 0
+        },
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:charge_eevon"
+}

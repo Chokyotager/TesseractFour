@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Strange Batteries","color":"dark_aqua"},
+        "description": "Create a Basic Cell",
+        "icon": {
+            "item": "minecraft:iron_ingot",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:charger"
+}

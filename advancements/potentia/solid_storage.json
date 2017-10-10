@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Even more energy","color":"dark_aqua"},
+        "description": "Create a BatBox Exchange Unit (BXU)",
+        "icon": {
+            "item": "minecraft:log",
+            "data": 1
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:make_batbox"
+}

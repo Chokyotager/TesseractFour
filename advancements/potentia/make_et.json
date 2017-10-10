@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Energy Tesseract","color":"dark_aqua"},
+        "description": "Construct an Energy Tesseract (ET) for your massive storage!",
+        "icon": {
+            "item": "minecraft:concrete",
+            "data": 15
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:make_mfeu"
+}

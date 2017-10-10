@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Potentia","color":"dark_aqua"},
+        "description": "The Legend, The Myth, The Energy",
+        "icon": {
+            "item": "minecraft:structure_block",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/blocks/iron_block.png"
+    },
+    "criteria": {"one": {"trigger": "tick"}}
+}

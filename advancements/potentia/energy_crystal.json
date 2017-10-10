@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Portable Crystals","color":"dark_aqua"},
+        "description": "Craft an Energy Crystal",
+        "icon": {
+            "item": "minecraft:diamond",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:battery"
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"I'm rich and I know it","color":"dark_aqua"},
+        "description": "Carry a stack of Energy Crystals",
+        "icon": {
+            "item": "minecraft:diamond_block",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:energy_crystal"
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Golden Lapotron","color":"dark_aqua"},
+        "description": "Make a Golden Lapotronic Regulator!",
+        "icon": {
+            "item": "minecraft:gold_block",
+            "data": 0
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:batbox_regulator"
+}

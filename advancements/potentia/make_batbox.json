@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Quantum Storage","color":"dark_aqua"},
+        "description": "Create a BatBox",
+        "icon": {
+            "item": "minecraft:iron_ingot",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:root"
+}

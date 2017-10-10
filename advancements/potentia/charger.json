@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Charge!!","color":"dark_aqua"},
+        "description": "Construct a Potentia Charger",
+        "icon": {
+            "item": "minecraft:purple_glazed_terracotta",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:root"
+}

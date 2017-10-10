@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Eevonic!","color":"dark_aqua"},
+        "description": "Craft an Eevon Crystal",
+        "icon": {
+            "item": "minecraft:diamond",
+            "data": 0
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:energy_crystal"
+}

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"I never thought...","color":"dark_aqua"},
+        "description": "Charge an Eevon Crystal",
+        "icon": {
+            "item": "minecraft:daylight_detector",
+            "data": 0
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "potentia:eevon_crystal"
+}
