@@ -1,7 +1,7 @@
 {
     "display": {
         "title":{"text":"Unwavering Teamwork","color":"red"},
-        "description": "Spawn in a tier VI Wither with multiple people around",
+        "description": "Spawn in a tier V Wither with multiple people around",
         "icon": {
             "item": "minecraft:skull",
             "data": 3
