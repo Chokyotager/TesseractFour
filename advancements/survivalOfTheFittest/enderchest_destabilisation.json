@@ -12,5 +12,5 @@
         "hidden": true
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:shulker_warp"
+    "parent": "survivalofthefittest:shulker_warp"
 }

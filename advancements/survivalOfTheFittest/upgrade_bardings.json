@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:speedy_bardings"
+    "parent": "survivalofthefittest:speedy_bardings"
 }

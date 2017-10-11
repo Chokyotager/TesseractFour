@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:cave_in_undeterred"
+    "parent": "survivalofthefittest:cave_in_undeterred"
 }

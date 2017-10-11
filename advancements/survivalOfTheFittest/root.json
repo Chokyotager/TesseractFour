@@ -1,16 +1,16 @@
 {
     "display": {
-        "title":{"text":"Survival of the fittest","color":"red"},
-        "description": "One's worst nightmare",
+        "title":{"text":"Survival of the Fittest","color":"red"},
+        "description": "Surviving the worst of the elements is hard... good luck?",
         "icon": {
-            "item": "minecraft:nether_wart",
+            "item": "minecraft:bow",
             "data": 0
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": false,
         "hidden": false,
-        "background": "minecraft:textures/blocks/dirt.png"
+        "background": "minecraft:textures/blocks/grass_path_top.png"
     },
     "criteria": {"one": {"trigger": "tick"}}
 }

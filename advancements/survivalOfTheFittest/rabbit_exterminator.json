@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:pesky_rabbits"
+    "parent": "survivalofthefittest:pesky_rabbits"
 }
