@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Daredevilry","color":"red"},
+        "description": "One's worst nightmare",
+        "icon": {
+            "item": "minecraft:nether_wart",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/blocks/mushroom_block_skin_brown.png"
+    },
+    "criteria": {"one": {"trigger": "tick"}}
+}

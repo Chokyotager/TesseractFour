@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Utter Destabilisation","color":"red"},
+        "description": "I told you. Now your items are gone",
+        "icon": {
+            "item": "minecraft:purple_shulker_box",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "daredevilry:shulker_warp"
+}
