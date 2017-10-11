@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"So... slow...","color":"red"},
+        "title":{"text":"So... slow..."},
         "description": "Equip diamond armour on a horse",
         "icon": {
             "item": "minecraft:diamond_horse_armor",

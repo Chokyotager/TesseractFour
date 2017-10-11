@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Once bitten, twice NOT shy","color":"red"},
+        "title":{"text":"Once bitten, twice NOT shy"},
         "description": "Die twice from a cave-in",
         "icon": {
             "item": "minecraft:record_mall",

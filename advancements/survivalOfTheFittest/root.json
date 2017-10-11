@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Survival of the Fittest","color":"red"},
+        "title":{"text":"Survival of the Fittest"},
         "description": "Surviving the worst of the elements is hard... good luck?",
         "icon": {
             "item": "minecraft:bow",

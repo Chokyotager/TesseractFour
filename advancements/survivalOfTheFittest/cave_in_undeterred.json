@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Undeterred","color":"red"},
+        "title":{"text":"Undeterred"},
         "description": "Have a cave collapse on you five times",
         "icon": {
             "item": "minecraft:stone",

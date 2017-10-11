@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Gotta Go Fast","color":"red"},
+        "title":{"text":"Gotta Go Fast"},
         "description": "Use a Speed Ring to prevent encumbering",
         "icon": {
             "item": "minecraft:emerald",

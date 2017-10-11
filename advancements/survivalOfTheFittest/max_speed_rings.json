@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"I'm Ring'd Up","color":"red"},
+        "title":{"text":"I'm Ring'd Up"},
         "description": "Equip a maximum of six Speed Rings",
         "icon": {
             "item": "minecraft:grass",

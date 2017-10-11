@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Torpor... sucks","color":"red"},
+        "title":{"text":"Torpor... sucks"},
         "description": "Get afflicted with too much damage and suffer the effects of weakness!",
         "icon": {
             "item": "minecraft:potion",

@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Collapsing Caves!","color":"red"},
+        "title":{"text":"Collapsing Caves!"},
         "description": "Use logs and planks to support ceilings to prevent cave-ins!",
         "icon": {
             "item": "minecraft:cobblestone",

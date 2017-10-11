@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Master Woodcutter","color":"red"},
+        "title":{"text":"Master Woodcutter"},
         "description": "Chop down a thousand blocks of logs",
         "icon": {
             "item": "minecraft:diamond_axe",

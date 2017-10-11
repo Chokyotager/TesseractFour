@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Lightning Horse","color":"red"},
+        "title":{"text":"Lightning Horse"},
         "description": "Craft a maxed out speedy horse barding",
         "icon": {
             "item": "minecraft:iron_horse_armor",

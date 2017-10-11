@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Even Better Bardings","color":"red"},
+        "title":{"text":"Even Better Bardings"},
         "description": "Upgrade a Speedy Horse Armour using yet more speed rings",
         "icon": {
             "item": "minecraft:iron_horse_armor",

@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Pesky Rabbits","color":"red"},
+        "title":{"text":"Pesky Rabbits"},
         "description": "Don't let rabbits get on your crops or they'll eat them up!",
         "icon": {
             "item": "minecraft:rabbit_hide",

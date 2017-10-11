@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Past the Speed Limit","color":"red"},
+        "title":{"text":"Past the Speed Limit"},
         "description": "Become so light using speed rings you get Speed III",
         "icon": {
             "item": "minecraft:feather",

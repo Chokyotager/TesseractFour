@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Maniacal","color":"red"},
+        "title":{"text":"Maniacal"},
         "description": "Have a cave collapse on you fifty times",
         "icon": {
             "item": "minecraft:bedrock",

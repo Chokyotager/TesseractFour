@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Mother Nature's revenge","color":"red"},
+        "title":{"text":"Mother Nature's revenge"},
         "description": "Get killed by a toppling tree",
         "icon": {
             "item": "minecraft:sapling",

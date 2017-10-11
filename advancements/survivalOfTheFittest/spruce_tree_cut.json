@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Beautiful, Huge, Lovely, yet Deadly","color":"red"},
+        "title":{"text":"Beautiful, Huge, Lovely, yet Deadly"},
         "description": "Chop down a spruce tree",
         "icon": {
             "item": "minecraft:sapling",

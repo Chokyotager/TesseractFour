@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Malnutrition","color":"red"},
+        "title":{"text":"Malnutrition"},
         "description": "You should eat various types of food to prevent diminishing returns",
         "icon": {
             "item": "minecraft:dye",

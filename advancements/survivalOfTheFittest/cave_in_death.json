@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"All fools die","color":"red"},
+        "title":{"text":"All fools die"},
         "description": "Only a fool forgets to place supports",
         "icon": {
             "item": "minecraft:red_flower",

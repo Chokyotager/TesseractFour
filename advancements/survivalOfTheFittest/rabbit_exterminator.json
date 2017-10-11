@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Heartless Exterminator","color":"red"},
+        "title":{"text":"Heartless Exterminator"},
         "description": "Slaughter a hundred rabbits",
         "icon": {
             "item": "minecraft:rabbit_foot",

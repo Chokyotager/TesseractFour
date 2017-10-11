@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Explodey Cave-In","color":"red"},
+        "title":{"text":"Explodey Cave-In"},
         "description": "Use TNT to trigger a cave-in",
         "icon": {
             "item": "minecraft:tnt",

@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Encumbered","color":"red"},
+        "title":{"text":"Encumbered"},
         "description": "Get too heavy to drag all your items with you",
         "icon": {
             "item": "minecraft:anvil",

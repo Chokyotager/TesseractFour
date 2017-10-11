@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Speedin' Up","color":"red"},
+        "title":{"text":"Speedin' Up"},
         "description": "Become so light using speed rings you go faster",
         "icon": {
             "item": "minecraft:feather",

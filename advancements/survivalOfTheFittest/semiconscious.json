@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Barely Conscious","color":"red"},
+        "title":{"text":"Barely Conscious"},
         "description": "Take such a big beating that you black out",
         "icon": {
             "item": "minecraft:iron_sword",

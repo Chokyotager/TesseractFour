@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Speedy Horse Armour","color":"red"},
+        "title":{"text":"Speedy Horse Armour"},
         "description": "Create an improved barding using Speed Rings",
         "icon": {
             "item": "minecraft:golden_horse_armor",

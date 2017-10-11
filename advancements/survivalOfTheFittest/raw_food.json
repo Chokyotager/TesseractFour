@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Disgusting!","color":"red"},
+        "title":{"text":"Disgusting!"},
         "description": "Consume raw meat to get a taste of its putrid effects",
         "icon": {
             "item": "minecraft:chicken",

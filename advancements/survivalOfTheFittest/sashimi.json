@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Sashimi","color":"red"},
+        "title":{"text":"Sashimi"},
         "description": "Cod, salmon and clownfish don't give you food poisoning!",
         "icon": {
             "item": "minecraft:fish",

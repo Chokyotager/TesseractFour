@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Utter Destabilisation","color":"red"},
+        "title":{"text":"Utter Destabilisation"},
         "description": "I told you. Now your items are gone",
         "icon": {
             "item": "minecraft:purple_shulker_box",
