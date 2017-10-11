@@ -3,10 +3,10 @@
         "title":{"text":"I'm Ring'd Up"},
         "description": "Equip a maximum of six Speed Rings",
         "icon": {
-            "item": "minecraft:grass",
+            "item": "minecraft:feather",
             "data": 0
         },
-        "frame": "task",
+        "frame": "goal",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false
