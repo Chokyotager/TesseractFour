@@ -1,7 +1,7 @@
 {
     "display": {
         "title":{"text":"Getting hurt wasn't a good idea...","color":"red"},
-        "description": "Craft a charm to ward off the curses of the Nether",
+        "description": "You should craft a charm to ward off the curses of the Nether",
         "icon": {
             "item": "minecraft:quartz_ore",
             "data": 0
