@@ -1,7 +1,7 @@
 {
     "display": {
         "title":{"text":"Past the Speed Limit"},
-        "description": "Become so light using speed rings you get Speed III",
+        "description": "Become so light using Speed Rings you get Speed III",
         "icon": {
             "item": "minecraft:feather",
             "data": 0
