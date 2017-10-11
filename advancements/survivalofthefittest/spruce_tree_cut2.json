@@ -1,16 +1,16 @@
 {
     "display": {
-        "title":{"text":"Deforestin' Accident"},
-        "description": "Get killed by a toppling tree",
+        "title":{"text":"Experienced Dodger"},
+        "description": "Chop two hundred spruce logs",
         "icon": {
             "item": "minecraft:sapling",
-            "data": 2
+            "data": 1
         },
-        "frame": "task",
+        "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalofthefittest:falling_trees"
+    "parent": "survivalofthefittest:spruce_tree_cut"
 }

@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Fugu Maniac"},
+        "description": "Eat ten pieces of pufferfish",
+        "icon": {
+            "item": "minecraft:fish",
+            "data": 3
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "survivalofthefittest:fugu"
+}

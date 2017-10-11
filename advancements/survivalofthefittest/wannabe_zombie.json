@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Wannabe Zombie"},
+        "description": "Eat a stack of zombie flesh",
+        "icon": {
+            "item": "minecraft:rotten_flesh",
+            "data": 0
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "survivalofthefittest:consume_rotten_flesh"
+}
