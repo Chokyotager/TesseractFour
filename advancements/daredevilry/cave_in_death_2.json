@@ -3,7 +3,7 @@
         "title":{"text":"Once bitten, twice NOT shy","color":"red"},
         "description": "Die twice from a cave-in",
         "icon": {
-            "item": "minecraft:record_mall",
+            "item": "minecraft:skull",
             "data": 0
         },
         "frame": "task",
