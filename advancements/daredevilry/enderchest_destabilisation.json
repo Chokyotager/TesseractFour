@@ -3,7 +3,7 @@
         "title":{"text":"Utter Destabilisation","color":"red"},
         "description": "I told you. Now your items are gone",
         "icon": {
-            "item": "minecraft:purple_shulker_box",
+            "item": "minecraft:red_shulker_box",
             "data": 0
         },
         "frame": "task",
