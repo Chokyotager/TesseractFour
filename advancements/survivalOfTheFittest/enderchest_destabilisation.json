@@ -12,5 +12,5 @@
         "hidden": true
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "daredevilry:shulker_warp"
+    "parent": "survivalOfTheFittest:shulker_warp"
 }

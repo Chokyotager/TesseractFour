@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "daredevilry:speedy_bardings"
+    "parent": "survivalOfTheFittest:speedy_bardings"
 }

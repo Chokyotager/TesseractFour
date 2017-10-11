@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "daredevilry:upgrade_bardings"
+    "parent": "survivalOfTheFittest:upgrade_bardings"
 }

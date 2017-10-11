@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Daredevilry","color":"red"},
+        "title":{"text":"Survival of the fittest","color":"red"},
         "description": "One's worst nightmare",
         "icon": {
             "item": "minecraft:nether_wart",
@@ -10,7 +10,7 @@
         "show_toast": true,
         "announce_to_chat": false,
         "hidden": false,
-        "background": "minecraft:textures/blocks/mushroom_block_skin_brown.png"
+        "background": "minecraft:textures/blocks/dirt.png"
     },
     "criteria": {"one": {"trigger": "tick"}}
 }

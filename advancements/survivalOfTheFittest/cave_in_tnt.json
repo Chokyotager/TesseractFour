@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "daredevilry:cave_in"
+    "parent": "survivalOfTheFittest:cave_in"
 }

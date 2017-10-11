@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "daredevilry:fast_speed_ring"
+    "parent": "survivalOfTheFittest:fast_speed_ring"
 }
