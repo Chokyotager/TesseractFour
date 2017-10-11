@@ -1,7 +1,7 @@
 {
     "display": {
         "title":{"text":"Quantameter","color":"dark_aqua"},
-        "description": "Craft a quantameter",
+        "description": "Craft a Quantameter",
         "icon": {
             "item": "minecraft:compass",
             "data": 0
