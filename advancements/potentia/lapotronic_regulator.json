@@ -1,7 +1,7 @@
 {
     "display": {
         "title":{"text":"Lapotronic Man","color":"dark_aqua"},
-        "description": "Description",
+        "description": "Create a Lapotronic Regulator",
         "icon": {
             "item": "minecraft:diamond",
             "data": 0
