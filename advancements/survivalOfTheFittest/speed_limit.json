@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Past the Speed Limit","color":"red"},
+        "title":{"text":"Past the Speed Limit"},
         "description": "Become so light using speed rings you get Speed III",
         "icon": {
             "item": "minecraft:feather",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:fast_speed_ring"
+    "parent": "survivalofthefittest:fast_speed_ring"
 }

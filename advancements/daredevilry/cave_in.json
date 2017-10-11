@@ -1,9 +1,9 @@
 {
     "display": {
-        "title":{"text":"Explodey Cave-In","color":"red"},
-        "description": "Use TNT to trigger a cave-in",
+        "title":{"text":"Collapsing Caves!","color":"red"},
+        "description": "Use logs and planks to support ceilings to prevent cave-ins!",
         "icon": {
-            "item": "minecraft:tnt",
+            "item": "minecraft:cobblestone",
             "data": 0
         },
         "frame": "task",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:cave_in"
+    "parent": "daredevilry:root"
 }

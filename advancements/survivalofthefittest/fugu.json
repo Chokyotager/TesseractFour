@@ -1,10 +1,10 @@
 {
     "display": {
-        "title":{"text":"So... slow..."},
-        "description": "Equip diamond armour on a horse",
+        "title":{"text":"Fugu"},
+        "description": "Pufferfish is still bad...",
         "icon": {
-            "item": "minecraft:diamond_horse_armor",
-            "data": 0
+            "item": "minecraft:fish",
+            "data": 3
         },
         "frame": "task",
         "show_toast": true,
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalofthefittest:root"
+    "parent": "survivalofthefittest:sashimi"
 }

@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"First Meal","color":"red"},
+        "title":{"text":"First Meal"},
         "description": "Having a nice meal? Maybe not for long...",
         "icon": {
             "item": "minecraft:cooked_beef",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:root"
+    "parent": "survivalofthefittest:root"
 }

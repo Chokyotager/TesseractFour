@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Falling Trees!","color":"red"},
+        "title":{"text":"Falling Trees!"},
         "description": "Be careful of topping trees!",
         "icon": {
             "item": "minecraft:leaves",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:root"
+    "parent": "survivalofthefittest:root"
 }

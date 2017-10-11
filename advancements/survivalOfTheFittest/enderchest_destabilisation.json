@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Utter Destabilisation","color":"red"},
+        "title":{"text":"Utter Destabilisation"},
         "description": "I told you. Now your items are gone",
         "icon": {
             "item": "minecraft:purple_shulker_box",
@@ -12,5 +12,5 @@
         "hidden": true
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:shulker_warp"
+    "parent": "survivalofthefittest:shulker_warp"
 }

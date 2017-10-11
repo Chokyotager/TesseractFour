@@ -1,9 +1,9 @@
 {
     "display": {
-        "title":{"text":"I'm Ring'd Up"},
-        "description": "Equip a maximum of six Speed Rings",
+        "title":{"text":"Sashimi King"},
+        "description": "Eat fifty pieces of raw fish (pufferfish excluded)",
         "icon": {
-            "item": "minecraft:emerald",
+            "item": "minecraft:golden_helmet",
             "data": 0
         },
         "frame": "goal",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalofthefittest:fast_speed_ring"
+    "parent": "survivalofthefittest:sashimi"
 }

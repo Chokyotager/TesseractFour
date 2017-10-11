@@ -1,7 +1,7 @@
 {
     "display": {
-        "title":{"text":"I'm Ring'd Up"},
-        "description": "Equip a maximum of six Speed Rings",
+        "title":{"text":"I'm charmed up!","color":"red"},
+        "description": "Craft a charm to rid Nether curses",
         "icon": {
             "item": "minecraft:emerald",
             "data": 0
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalofthefittest:fast_speed_ring"
+    "parent": "daredevilry:nether_curses_hurt"
 }

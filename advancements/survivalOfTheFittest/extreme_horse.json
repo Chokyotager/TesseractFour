@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"1234.8 km/h","color":"red"},
+        "title":{"text":"1234.8 km/h"},
         "description": "Equip a maxed out horse barding on a fully-trained horse",
         "icon": {
             "item": "minecraft:feather",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:upgrade_bardings"
+    "parent": "survivalofthefittest:upgrade_bardings"
 }

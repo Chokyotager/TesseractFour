@@ -1,16 +1,16 @@
 {
     "display": {
-        "title":{"text":"Sashimi"},
-        "description": "Cod, salmon and clownfish don't give you food poisoning!",
+        "title":{"text":"Fugu Maniac"},
+        "description": "Eat ten pieces of pufferfish",
         "icon": {
             "item": "minecraft:fish",
-            "data": 0
+            "data": 3
         },
-        "frame": "goal",
+        "frame": "challenge",
         "show_toast": true,
         "announce_to_chat": true,
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalofthefittest:first_meal"
+    "parent": "survivalofthefittest:fugu"
 }

@@ -1,9 +1,9 @@
 {
     "display": {
-        "title":{"text":"All fools die","color":"red"},
-        "description": "Only a fool forgets to place supports",
+        "title":{"text":"Once bitten, twice NOT shy","color":"red"},
+        "description": "Die twice from a cave-in",
         "icon": {
-            "item": "minecraft:red_flower",
+            "item": "minecraft:skull",
             "data": 0
         },
         "frame": "task",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:cave_in"
+    "parent": "daredevilry:cave_in_death"
 }

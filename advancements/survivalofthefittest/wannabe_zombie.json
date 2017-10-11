@@ -1,9 +1,9 @@
 {
     "display": {
-        "title":{"text":"Lightning Horse"},
-        "description": "Craft a maxed out speedy horse barding",
+        "title":{"text":"Wannabe Zombie"},
+        "description": "Eat a stack of zombie flesh",
         "icon": {
-            "item": "minecraft:iron_horse_armor",
+            "item": "minecraft:rotten_flesh",
             "data": 0
         },
         "frame": "challenge",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalofthefittest:upgrade_bardings"
+    "parent": "survivalofthefittest:consume_rotten_flesh"
 }

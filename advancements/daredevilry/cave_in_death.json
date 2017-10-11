@@ -1,9 +1,9 @@
 {
     "display": {
-        "title":{"text":"Collapsing Caves!","color":"red"},
-        "description": "Use logs and planks to support ceilings to prevent cave-ins!",
+        "title":{"text":"All fools die","color":"red"},
+        "description": "Only a fool forgets to place supports",
         "icon": {
-            "item": "minecraft:cobblestone",
+            "item": "minecraft:red_flower",
             "data": 0
         },
         "frame": "task",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:root"
+    "parent": "daredevilry:cave_in"
 }

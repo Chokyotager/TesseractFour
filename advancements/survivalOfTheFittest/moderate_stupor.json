@@ -1,6 +1,6 @@
 {
     "display": {
-        "title":{"text":"Moderate Stupor","color":"red"},
+        "title":{"text":"Moderate Stupor"},
         "description": "Losing your bearings ain't ya?",
         "icon": {
             "item": "minecraft:shield",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalOfTheFittest:torpor"
+    "parent": "survivalofthefittest:torpor"
 }
