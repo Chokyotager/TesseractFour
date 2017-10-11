@@ -3,7 +3,7 @@
         "title":{"text":"I'm Ring'd Up"},
         "description": "Equip a maximum of six Speed Rings",
         "icon": {
-            "item": "minecraft:emerlad",
+            "item": "minecraft:emerald",
             "data": 0
         },
         "frame": "goal",
