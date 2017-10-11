@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Even Better Bardings","color":"red"},
+        "description": "Upgrade a Speedy Horse Armour using yet more speed rings",
+        "icon": {
+            "item": "minecraft:iron_horse_armor",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "survivalOfTheFittest:speedy_bardings"
+}

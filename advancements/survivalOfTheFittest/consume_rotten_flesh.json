@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Fetid Trash","color":"red"},
+        "description": "Rotten flesh is far worse than you thought. Or is it?",
+        "icon": {
+            "item": "minecraft:rotten_flesh",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "survivalOfTheFittest:first_meal"
+}

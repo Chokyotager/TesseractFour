@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Barely Conscious","color":"red"},
+        "description": "Take such a big beating that you black out",
+        "icon": {
+            "item": "minecraft:iron_sword",
+            "data": 0
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "survivalOfTheFittest:moderate_stupor"
+}

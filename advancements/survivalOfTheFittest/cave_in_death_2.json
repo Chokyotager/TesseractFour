@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title":{"text":"Once bitten, twice NOT shy","color":"red"},
+        "description": "Die twice from a cave-in",
+        "icon": {
+            "item": "minecraft:record_mall",
+            "data": 0
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {"one": {"trigger": "impossible"}},
+    "parent": "survivalOfTheFittest:cave_in_death"
+}
