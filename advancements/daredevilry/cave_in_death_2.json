@@ -1,9 +1,9 @@
 {
     "display": {
-        "title":{"text":"Collapsing Caves!"},
-        "description": "Use logs and planks to support ceilings to prevent cave-ins!",
+        "title":{"text":"Once bitten, twice NOT shy","color":"red"},
+        "description": "Die twice from a cave-in",
         "icon": {
-            "item": "minecraft:cobblestone",
+            "item": "minecraft:record_mall",
             "data": 0
         },
         "frame": "task",
@@ -12,5 +12,5 @@
         "hidden": false
     },
     "criteria": {"one": {"trigger": "impossible"}},
-    "parent": "survivalofthefittest:root"
+    "parent": "daredevilry:cave_in_death"
 }
