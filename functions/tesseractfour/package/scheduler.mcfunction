@@ -22,7 +22,7 @@ function TesseractFour:Package/Schedules/Schedule_5 if @e[name=TesseractFour,typ
 
 scoreboard players add @e[name=TesseractFour,type=armor_stand] T4_scheduler_sec 1
 function TesseractFour:Package/Schedules/Schedule_sec if @e[name=TesseractFour,type=armor_stand,score_T4_scheduler_sec_min=1,score_T4_scheduler_sec=1]
-function TesseractFour:Package/Schedules/Schedule_sec_2 if @e[name=TesseractFour,type=armor_stand,score_T4_scheduler_sec_min=21,score_T4_scheduler_sec=21]
+function TesseractFour:Package/Schedules/Schedule_sec_2 if @e[name=TesseractFour,type=armor_stand,score_T4_scheduler_sec_min=11,score_T4_scheduler_sec=11]
 
 scoreboard players add @e[name=TesseractFour,type=armor_stand] T4_scheduler_h 1
 function TesseractFour:Package/Schedules/Schedule_hopper if @e[name=TesseractFour,type=armor_stand,score_T4_scheduler_h_min=1,score_T4_scheduler_h=1]
