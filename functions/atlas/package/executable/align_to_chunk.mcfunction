@@ -2,6 +2,9 @@
 # All rights reserved
 # Atlas by ChocoParrot
 
+scoreboard players operation @s T4_coord_x %= 32 T4_const
+scoreboard players operation @s T4_coord_z %= 32 T4_const
+
 tp @s[score_T4_coord_x_min=1,score_T4_coord_x=1] ~-1 ~ ~
 tp @s[score_T4_coord_x_min=2,score_T4_coord_x=2] ~-2 ~ ~
 tp @s[score_T4_coord_x_min=3,score_T4_coord_x=3] ~-3 ~ ~
