@@ -34,3 +34,5 @@ function Atlas:Package/Executable/Constructor/Construct/Swamp_dungeon if @s[tag=
 function Atlas:Package/Executable/Constructor/Construct/Taiga_mansion if @s[tag=T4_A_gen_taigam]
 function Atlas:Package/Executable/Constructor/Construct/Water_monument if @s[tag=T4_A_gen_waterm]
 function Atlas:Package/Executable/Constructor/Construct/Wyvnamore_dungeon if @s[tag=T4_A_gen_wyvd]
+
+kill @s
