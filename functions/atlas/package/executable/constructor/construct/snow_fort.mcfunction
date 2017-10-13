@@ -9,4 +9,4 @@ fill ~-6 ~-2 ~11 ~14 ~-10 ~-6 dirt 0 replace water
 
 function Atlas:Package/Executable/Constructor/Remove_structure_block
 
-kill @s
+

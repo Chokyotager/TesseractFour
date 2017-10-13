@@ -6,5 +6,3 @@ setblock ~ ~ ~ structure_block 0 replace {name:"Red Dungeon",ignoreEntities:0b,a
 setblock ~ ~1 ~ redstone_block
 
 function Atlas:Package/Executable/Constructor/Remove_structure_block
-
-kill @s

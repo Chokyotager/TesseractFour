@@ -8,4 +8,4 @@ fill ~-10 ~1 ~-10 ~19 ~6 ~19 netherrack 0 replace air
 
 function Atlas:Package/Executable/Constructor/Remove_structure_block
 
-kill @s
+

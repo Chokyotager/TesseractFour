@@ -13,4 +13,4 @@ function Atlas:Package/Executable/Constructor/Remove_structure_block
 execute @s ~ ~27 ~ function Atlas:Package/Executable/Constructor/Remove_structure_block
 execute @s ~ ~-32 ~ function Atlas:Package/Executable/Constructor/Remove_structure_block
 
-kill @s
+

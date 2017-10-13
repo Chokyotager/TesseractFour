@@ -9,4 +9,4 @@ fill ~13 ~-2 ~13 ~-7 ~-15 ~-7 netherrack 0 replace lava
 
 function Atlas:Package/Executable/Constructor/Remove_structure_block
 
-kill @s
+

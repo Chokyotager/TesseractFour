@@ -9,4 +9,4 @@ fill ~-5 ~-2 ~3 ~8 ~-8 ~-5 sandstone replace water
 
 function Atlas:Package/Executable/Constructor/Remove_structure_block
 
-kill @s
+
