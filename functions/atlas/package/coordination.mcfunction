@@ -7,5 +7,7 @@ function Atlas:Package/Scan if @a
 # Set stats and scan
 execute @e[tag=T4_A_statset,type=armor_stand] ~ ~ ~ function Atlas:Package/Executable/Set_stats
 
+function Atlas:Package/Scan_area if @e[tag=T4_A_scanner]
+
 # Propagate
 execute @e[tag=T4_A_scanner] ~ ~ ~ function Atlas:Package/Executable/Propagate

@@ -48,12 +48,6 @@ execute @s ~ ~ ~ detect ~ 30 ~ iron_ore 0 function Atlas:Package/Executable/Cons
 # Dark Tower
 execute @s ~ ~ ~ detect ~ 5 ~ redstone_ore 0 function Atlas:Package/Executable/Constructor/Spawn/Dark_tower
 
-# Ignatius Tower (Nether)
-execute @s[score_T4_A_stats_min=60,score_T4_A_stats=62] ~ ~ ~ detect ~ 28 ~ netherrack -1 execute @s ~ ~ ~ detect ~ 90 ~ air -1 function Atlas:Package/Executable/Constructor/Spawn/Ignatius_tower
-
-# Nether Hive (Nether)
-execute @s[score_T4_A_stats_min=82,score_T4_A_stats=84] ~ ~ ~ detect ~3 2 ~3 bedrock 0 execute @s ~ ~ ~ detect ~ 28 ~ lava -1 function Atlas:Package/Executable/Constructor/Spawn/Nether_hive
-
 # Infested Base
 function Atlas:Package/Executable/Constructor/Spawn/Infested_base
 
@@ -89,12 +83,6 @@ execute @s[score_T4_A_stats_min=1] ~ ~ ~ detect ~ 20 ~ stone 3 function Atlas:Pa
 
 # Pharaoh's Tomb
 execute @s ~ ~ ~ detect ~3 10 ~3 gold_ore 0 execute @s ~ ~ ~ detect ~ 30 ~ stone 0 function Atlas:Package/Executable/Constructor/Spawn/Pharaoh_tomb
-
-# Soul Cavern (Nether)
-execute @s ~ ~ ~ detect ~ 31 ~ netherrack 0 function Atlas:Package/Executable/Constructor/Spawn/Soul_cavern
-
-# Nether Fortification (Nether)
-execute @s ~ ~ ~ detect ~ 31 ~ lava -1 function Atlas:Package/Executable/Constructor/Spawn/Nether_fortification
 
 # Mesa Castle
 execute @s ~ ~ ~ detect ~ 10 ~ stone 0 execute @s ~ ~ ~ detect ~ 5 ~ redstone_ore 0 function Atlas:Package/Executable/Constructor/Spawn/Mesa_castle
