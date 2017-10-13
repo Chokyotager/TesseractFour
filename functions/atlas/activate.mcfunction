@@ -3,6 +3,7 @@
 # Atlas by ChocoParrot
 
 scoreboard objectives add T4_A_stats dummy
+scoreboard objectives add T4_A_statsb dummy
 
 # Population
 scoreboard objectives add T4_A_c1 dummy
