@@ -15,7 +15,7 @@ execute @s ~ ~ ~ detect ~ 75 ~ packed_ice 0 function Atlas:Package/Executable/Co
 execute @s ~ ~ ~ detect ~ 75 ~ stained_hardened_clay -1 function Atlas:Package/Executable/Constructor/Spawn/Mesa_temple
 
 # Snow Fort
-execute @s ~ ~ ~ detect ~ 30 ~ iron_ore 0 function Atlas:Package/Executable/Constructor/Snow_fort
+execute @s ~ ~ ~ detect ~ 30 ~ iron_ore 0 function Atlas:Package/Executable/Constructor/Spawn/Snow_fort
 
 # Dinosaur Bones
 execute @s ~ ~ ~ detect ~ 35 ~ stone 1 execute @s ~ ~ ~ detect ~ 66 ~ sand -1 function Atlas:Package/Executable/Constructor/Spawn/Dinosaur_bones
