@@ -13,4 +13,4 @@ function HeartCanisters:Package/Additional_breakpoints/Breakpoint_1 if @e[name=T
 function Weaponry:Package/Additional_breakpoints/Breakpoint_1 if @e[name=TesseractFour,type=armor_stand,tag=Weaponry]
 
 # PRE-EMPTIVE
-function Dynamo:Package/Main if @e[name=TesseractFour,type=armor_stand,tag=Dynamo,score_T4_tps_min=18,score_T4_tps=21]
+function Atlas:Package/Main if @e[name=TesseractFour,type=armor_stand,tag=Atlas,score_T4_tps_min=18,score_T4_tps=21]

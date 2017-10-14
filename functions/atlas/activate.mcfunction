@@ -4,6 +4,7 @@
 
 scoreboard objectives add T4_A_stats dummy
 scoreboard objectives add T4_A_dimension dummy
+scoreboard objectives add T4_A_region dummy
 
 # Population
 scoreboard objectives add T4_A_c1 dummy
