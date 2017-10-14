@@ -12,3 +12,9 @@ execute @r[tag=T4_A_scanner,type=area_effect_cloud,c=5] ~ ~ ~ function Atlas:Pac
 execute @e[tag=T4_A_statset] ~ ~ ~ function Atlas:Package/Executable/Set_stats
 
 function Atlas:Package/Scan_area if @e[tag=T4_A_scanx]
+
+function Atlas:Package/Recce if @e[tag=T4_A_recce]
+
+execute @e[tag=T4_A_sr,type=armor_stand] ~ ~ ~ function Atlas:Package/Executable/Constructor/Assignator
+
+function Atlas:Package/Population if @e[type=armor_stand,name=PopulateChest]

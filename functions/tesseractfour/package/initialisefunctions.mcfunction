@@ -33,7 +33,7 @@ function SluggishHorses:Activate
 function BetterBardings:Activate
 function MidnightNightmare:Activate
 function EnderResonance:Activate
-function Dynamo:Activate
+function Atlas:Activate
 function HeartCanisters:Activate
 function NouveauFurnaces:Activate
 function EphemeralRegeneration:Activate
