@@ -11,7 +11,7 @@ scoreboard players set @e[type=armor_stand,tag=T4_MC,score_T4_MC_recipes_min=1,s
 scoreboard players set @e[type=armor_stand,tag=T4_MC,score_T4_MC_recipes_min=1,score_T4_aec_min=9] T4_P_energy 0
 scoreboard players set @e[type=armor_stand,tag=T4_MC,score_T4_MC_recipes_min=1,score_T4_aec_min=9] T4_P_me 1199
 scoreboard players set @e[type=armor_stand,tag=T4_MC,score_T4_MC_recipes_min=1,score_T4_aec_min=9] T4_P_mea 1200
-entitydata @e[type=armor_stand,tag=T4_MC,score_T4_MC_recipes_min=1,score_T4_aec_min=9] {Tags:["T4_P_mesm","T4_P_machine","T4_P_storage","T4_P_storagex","T4_machine","T4_MC_derivative"],CustomName:"MESM",ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1b,Damage:3s,tag:{display:{Name:"Battery 0%"},SkullOwner:{Id:"8847dbf6-6648-47f2-bb4f-667903125a9e",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQyYzE5YjQ0MjU0MTM1MWE2YjgxZWViNmNiZWY0MTk2NmZmYjdkYmU0YzEzNmI4N2Y1YmFmOWQxNGEifX19"}]}}}}]}
+entitydata @e[type=armor_stand,tag=T4_MC,score_T4_MC_recipes_min=1,score_T4_aec_min=9] {Tags:["T4_P_mesm","T4_P_setegress","T4_P_machine","T4_P_storage","T4_P_storagex","T4_machine","T4_MC_derivative"],CustomName:"MESM",ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1b,Damage:3s,tag:{display:{Name:"Battery 0%"},SkullOwner:{Id:"8847dbf6-6648-47f2-bb4f-667903125a9e",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQyYzE5YjQ0MjU0MTM1MWE2YjgxZWViNmNiZWY0MTk2NmZmYjdkYmU0YzEzNmI4N2Y1YmFmOWQxNGEifX19"}]}}}}]}
 
 
 # BatBox Exchange Unit (BXU)

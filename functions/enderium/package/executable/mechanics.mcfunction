@@ -2,14 +2,14 @@
 # All rights reserved
 # Enderium by ChocoParrot
 
-scoreboard players tag @s add T4_En_s1 {Item:{tag:{T4_En_type:"tesseract4:ender_surfacer"}}}
-scoreboard players tag @s add T4_En_s2 {Item:{tag:{T4_En_type:"tesseract4:safe_ender_surfacer"}}}
-scoreboard players tag @s add T4_En_spr1 {Item:{tag:{T4_En_type:"tesseract4:ender_spreader_i"}}}
-scoreboard players tag @s add T4_En_spr2 {Item:{tag:{T4_En_type:"tesseract4:ender_spreader_ii"}}}
-scoreboard players tag @s add T4_En_d1 {Item:{tag:{T4_En_type:"tesseract4:ender_disperser_i"}}}
-scoreboard players tag @s add T4_En_d2 {Item:{tag:{T4_En_type:"tesseract4:ender_disperser_ii"}}}
-scoreboard players tag @s add T4_En_i {Item:{tag:{T4_En_type:"tesseract4:ender_inverter"}}}
-scoreboard players tag @s add T4_En_f {Item:{tag:{T4_En_type:"tesseract4:ender_flipper"}}}
+scoreboard players tag @s add T4_En_s1 {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:ender_surfacer"}}}
+scoreboard players tag @s add T4_En_s2 {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:safe_ender_surfacer"}}}
+scoreboard players tag @s add T4_En_spr1 {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:ender_spreader_i"}}}
+scoreboard players tag @s add T4_En_spr2 {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:ender_spreader_ii"}}}
+scoreboard players tag @s add T4_En_d1 {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:ender_disperser_i"}}}
+scoreboard players tag @s add T4_En_d2 {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:ender_disperser_ii"}}}
+scoreboard players tag @s add T4_En_i {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:ender_inverter"}}}
+scoreboard players tag @s add T4_En_f {Dimension:0,Item:{tag:{T4_En_type:"tesseract4:ender_flipper"}}}
 
 # Green
 execute @s[tag=T4_En_s1] ~ ~ ~ summon armor_stand ~ ~-1.75 ~ {Invisible:1b,NoGravity:1b,ArmorItems:[{},{},{},{id:"minecraft:skull",Count:1b,Damage:3s,tag:{display:{Name:"Endereye"},SkullOwner:{Id:"edd3562f-fb51-4878-af32-1f657e8ae56d",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZlOGU3ZjJkYjhlYWE4OGEwNDFjODlkNGMzNTNkMDY2Y2M0ZWRlZjc3ZWRjZjVlMDhiYjVkM2JhYWQifX19"}]}}}}],DisabledSlots:2039583,CustomName:"[ 3 ]",Tags:["T4_En_counter","T4_En_eye1"],CustomNameVisible:1b}

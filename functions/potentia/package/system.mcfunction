@@ -13,6 +13,8 @@ function Potentia:Package/Hibernate if @e[tag=T4_P_hibernate,type=armor_stand]
 
 function Potentia:Package/Discharge if @e[tag=T4_P_discharger,type=armor_stand]
 
+execute @e[tag=T4_P_setegress,type=armor_stand] ~ ~ ~ function Potentia:Package/Executable/Set_egress
+
 scoreboard players tag @e[type=item] add T4_P_quanta {OnGround:1b,Item:{id:"minecraft:compass",Count:1b,tag:{T4_P_quantameter:1b}}}
 execute @e[tag=T4_P_quanta] ~ ~-1 ~ execute @e[type=armor_stand,dy=0,tag=T4_P_storage] ~ ~ ~ function Potentia:Package/Executable/Quantameter
 execute @e[tag=T4_P_quanta] ~ ~-1 ~ execute @e[type=armor_stand,dy=0,tag=T4_P_storage2] ~ ~ ~ function Potentia:Package/Executable/Quantameter_x
