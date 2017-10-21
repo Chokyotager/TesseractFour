@@ -19,6 +19,7 @@ function Atlas:Package/Executable/Constructor/Construct/Mesa_bar if @s[tag=T4_A_
 function Atlas:Package/Executable/Constructor/Construct/Mesa_castle if @s[tag=T4_A_g_mcastle]
 function Atlas:Package/Executable/Constructor/Construct/Mesa_temple if @s[tag=T4_A_g_mtemple]
 function Atlas:Package/Executable/Constructor/Construct/Mineshaft_central if @s[tag=T4_A_g_minec]
+function Atlas:Package/Executable/Constructor/Construct/Mining_drill if @s[tag=T4_A_g_mdrill]
 function Atlas:Package/Executable/Constructor/Construct/Nether_fortification if @s[tag=T4_A_g_nfortif]
 function Atlas:Package/Executable/Constructor/Construct/Nether_hive if @s[tag=T4_A_g_nhive]
 function Atlas:Package/Executable/Constructor/Construct/Ocean_yacht if @s[tag=T4_A_g_yacht]

@@ -87,4 +87,7 @@ execute @s ~ ~ ~ detect ~3 10 ~3 gold_ore 0 execute @s ~ ~ ~ detect ~ 30 ~ stone
 # Mesa Castle
 execute @s ~ ~ ~ detect ~ 10 ~ stone 0 execute @s ~ ~ ~ detect ~ 5 ~ redstone_ore 0 function Atlas:Package/Executable/Constructor/Spawn/Mesa_castle
 
+# Mining Drill
+execute @s ~ ~ ~ detect ~ 15 ~ stone variant=diorite function Atlas:Package/Executable/Constructor/Spawn/Mining_drill
+
 function Atlas:Package/Executable/Constructor/Leafcutter if @s[tag=T4_A_clear]
