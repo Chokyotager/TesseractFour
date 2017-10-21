@@ -90,4 +90,7 @@ execute @s ~ ~ ~ detect ~ 10 ~ stone 0 execute @s ~ ~ ~ detect ~ 5 ~ redstone_or
 # Mining Drill
 execute @s ~ ~ ~ detect ~ 15 ~ stone variant=diorite function Atlas:Package/Executable/Constructor/Spawn/Mining_drill
 
+# Huge Oak
+execute @s ~ ~ ~ detect ~ 45 ~ iron_ore 0 function Atlas:Package/Executable/Constructor/Spawn/Huge_oak
+
 function Atlas:Package/Executable/Constructor/Leafcutter if @s[tag=T4_A_clear]

@@ -69,4 +69,6 @@ execute @e[name=dynp_feature,tag=netherfortification_top,type=armor_stand] ~ ~ ~
 
 execute @e[name=dynp_feature,tag=watermonument_spawner,type=armor_stand] ~ ~ ~ setblock ~ ~ ~ mob_spawner 0 replace {MaxNearbyEntities:4s,RequiredPlayerRange:8s,SpawnCount:1s,MaxSpawnDelay:800s,SpawnRange:4s,Delay:0s,MinSpawnDelay:200s,SpawnData:{Tags:["T4_gexempt1"],id:"Guardian",CustomName:"Water Monument Guardian",DeathLootTable:"gameplay/fishing/junk"}}
 
+execute @e[name=dynp_feature,tag=hugeoak_sentry,type=armor_stand] ~ ~ ~ summon Zombie ~ ~1 ~ {CustomName:"Huge-oak Sentry",Attributes:[{Name:generic.maxHealth,Base:35},{Name:zombie.spawnReinforcements,Base:0.2}],Health:35.0f,ArmorItems:[{id:"leather_boots",Count:1b,Damage:0s,tag:{display:{color:3646234}}},{id:"leather_leggings",Count:1b,Damage:0s,tag:{display:{color:3646234}}},{id:"leather_chestplate",Count:1b,Damage:0s,tag:{display:{color:3646234}}},{id:"leaves",Count:1b,Damage:0s}],HandItems:[{id:"wooden_sword",Count:1b},{}],LeftHanded:1b,ArmorDropChances:[-200.0f,-200.0f,-200.0f,-200.0f]}
+
 kill @e[name=dynp_feature,type=armor_stand]
