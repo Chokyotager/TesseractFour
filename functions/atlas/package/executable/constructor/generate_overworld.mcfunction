@@ -93,4 +93,7 @@ execute @s ~ ~ ~ detect ~ 15 ~ stone variant=diorite function Atlas:Package/Exec
 # Huge Oak
 execute @s ~ ~ ~ detect ~ 45 ~ stone variant=andesite function Atlas:Package/Executable/Constructor/Spawn/Huge_oak
 
+# Fallen Ruin
+execute @s ~ ~ ~ detect ~5 30 ~ stone variant=andesite function Atlas:Package/Executable/Constructor/Spawn/Fallen_ruin
+
 function Atlas:Package/Executable/Constructor/Leafcutter if @s[tag=T4_A_clear]
