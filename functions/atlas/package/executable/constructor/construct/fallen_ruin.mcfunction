@@ -13,4 +13,4 @@ fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace log
 fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace water
 fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace tallgrass
 
-fill ~-10 ~16 ~-10 ~50 ~32 ~21 air
+fill ~-10 ~16 ~-10 ~49 ~32 ~21 air
