@@ -7,4 +7,10 @@ setblock ~ ~1 ~ redstone_block
 
 function Atlas:Package/Executable/Constructor/Remove_structure_block
 
-# To be changed -- add a /fill replace below the structure
+fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace air
+fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace leaves
+fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace log
+fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace water
+fill ~-10 ~-1 ~-10 ~18 ~-10 ~21 dirt 0 replace tallgrass
+
+fill ~-10 ~16 ~-10 ~50 ~32 ~21 air
