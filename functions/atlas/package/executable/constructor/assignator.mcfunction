@@ -37,6 +37,7 @@ function Atlas:Package/Executable/Constructor/Construct/Water_monument if @s[tag
 function Atlas:Package/Executable/Constructor/Construct/Wyvnamore_dungeon if @s[tag=T4_A_g_wyvd]
 
 function Atlas:Package/Executable/Constructor/Construct/Huge_oak if @s[tag=T4_A_g_hoak]
+function Atlas:Package/Executable/Constructor/Construct/Fallen_ruin if @s[tag=T4_A_g_fruin]
 
 function Atlas:Package/Ports/Features if @e[name=dynp_feature,type=armor_stand]
 function Atlas:Package/Ports/Spawners

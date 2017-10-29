@@ -133,4 +133,6 @@ execute @e[name=dyn_detspawnnfortif,type=armor_stand] ~ ~ ~ detect ~ 0 ~ cobbles
 execute @e[name=dyn_detspawnnfortif,type=armor_stand] ~ ~ ~ detect ~ 2 ~ bedrock -1 setblock ~ ~ ~ mob_spawner 0 destroy {SpawnData:{Tags:["T4_gexempt1"],id:"cave_spider",CustomName:"Fortified Spider",Attributes:[{Name:generic.movementSpeed,Base:0.3},{Name:generic.attackDamage,Base:3}],ActiveEffects:[{Id:12,Amplifier:1,Duration:999999,Ambient:1b,ShowParticles:0b}],DeathLootTable:"empty"},MaxNearbyEntities:4s,RequiredPlayerRange:8s,SpawnCount:2s,MaxSpawnDelay:800s,SpawnRange:12s,Delay:0s,MinSpawnDelay:200s}
 kill @e[name=dyn_detspawnnfortif,type=armor_stand]
 
+execute @e[name=dyn_detFRuin,type=armor_stand] ~ ~ ~ setblock ~ ~ ~ mob_spawner 0 destroy {SpawnData:{id:"minecraft:zombie"},MaxNearbyEntities:4s,RequiredPlayerRange:8s,SpawnCount:2s,MaxSpawnDelay:800,SpawnRange:12s,Delay:0s,MinSpawnDelay:200s}
+
 gamerule doTileDrops true
