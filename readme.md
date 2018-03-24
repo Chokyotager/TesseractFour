@@ -1,3 +1,3 @@
 TesseractFour is a Minecraft functions project.
 
-(C) TesseractFour, ChocoParrot, 2017
+Do what you want!
